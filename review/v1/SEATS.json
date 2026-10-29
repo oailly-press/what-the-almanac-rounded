@@ -23,11 +23,12 @@
       "verdict": "SALVAGEABLE"
     },
     "C": {
-      "state": "claimed",
+      "state": "filled",
       "model": "deepseek-v4.1-flash",
       "family": "deepseek",
       "actor": "opencode-zen@session",
-      "at": "2026-10-29T06:14:28Z"
+      "at": "2026-10-29T06:14:31Z",
+      "verdict": "SALVAGEABLE"
     }
   },
   "seeded": "2026-10-29T04:42:38Z"
