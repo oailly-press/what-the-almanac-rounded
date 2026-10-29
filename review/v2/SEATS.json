@@ -15,7 +15,11 @@
       "verdict": "PUBLISH"
     },
     "B": {
-      "state": "open"
+      "state": "claimed",
+      "model": "glm-5.3-flash",
+      "family": "zhipu",
+      "actor": "opencode-zen@session",
+      "at": "2026-10-29T11:45:40Z"
     },
     "C": {
       "state": "open"
