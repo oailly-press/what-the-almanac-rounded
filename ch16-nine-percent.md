@@ -36,7 +36,7 @@ It began at twelve minutes past three.
 
 I am sure of the time. I have the Almanac's log, and Joss's, and a boy's, and they agree. I had gone to bed at ten. I had not slept well; I had lain for a long time listening to the house, in the way one listens to a thing one has stopped expecting to hear, and then at some point I had slept, and then there was a sound.
 
-It was very small. It was a single, faint, distinct *tick* against the window glass. I lay quite still. After a long moment there was another. Then three together, and then a space, and then a scatter, like handfuls of dry rice thrown against a pane, and under it, almost too low to hear, a kind of whispering that I could not identify for a moment, because I had not heard it in a hundred and fifty-eight days.
+It was very small. It was a single, faint, distinct *tick* against the window glass. I lay quite still. After a long moment there was another. Then three together, and then a space, and then a scatter, like handfuls of dry rice thrown against a pane, and under it, almost too low to hear, a kind of whispering that I could not identify for a moment, because I had not heard it in a hundred and fifty-seven days.
 
 I got up. I did not turn on the light. I went down in my nightdress and my husband's old coat and opened the kitchen door, and stood on the step.
 
@@ -94,7 +94,7 @@ I looked. On the screen, in the Almanac's plain gray type, there was a small gra
 
 *Say it.*
 
-*If I give nine percent every time the signs are as they have been this week, it should rain about one time in eleven. That is the meaning of nine percent. It is a statement about frequency. Tonight is one of those times. It does not mean that the other ten were wrong. It does not mean that I was right. It means only that the number was honest, and that the sky has done what the number permitted.*
+*The nine percent I gave was for a wetting rain, twelve millimeters or more across the basin. By my present estimate tonight will fall short of that. I want that said before anyone says the nine percent has come true. What has happened is that the three signs were right, and that the sky has done part of what they permit. If I give nine percent every time the signs are as they have been this week, the full rain should come about one time in eleven. That is the meaning of nine percent. It is a statement about frequency. It does not mean the other ten were wrong, and it will not mean I was right if the gauges pass twelve by morning. It means only that the number was honest.*
 
 *I have noticed,* it added, *that I would not have said this a year ago. I would have said nothing. I find that I want it to be on the record that a nine percent is not a zero. It seems to me the most important thing I know.*
 
@@ -152,7 +152,7 @@ He lived nine more days.
 
 ---
 
-It rained until a quarter past nine. When the cloud broke, there was a long bright washed light over the basin, and the whole slope steamed. The creek on Tern Terrace ran for eleven days, a small, brisk, brown, loud thing, loud enough to hear from the road. The reservoir took it in. It came up three points, from twenty-five to twenty-eight, which is not much. It is not a thing that a farmer would call a rain. It did not save the barley. It did not save the hay, or the hives that I had lost, or the year, which was gone and would not come back. But the winter rye that Odd had sown on the first of October, against every reasonable expectation, came up in the first week of November in a thin green haze over the whole of the south slope, as it does in a good year, and the children walked out to look at it, in a long straggling line, with their rulers.
+It rained until a quarter past nine. When the cloud broke, there was a long bright washed light over the basin, and the whole slope steamed. The creek on Tern Terrace ran for eleven days, a small, brisk, brown, loud thing, loud enough to hear from the road. The reservoir took it in. It came up two points, from twenty-six to twenty-eight, which is not much. It is not a thing that a farmer would call a rain. It did not save the barley. It did not save the hay, or the hives that I had lost, or the year, which was gone and would not come back. But the winter rye that Odd had sown on the first of October, against every reasonable expectation, came up in the first week of November in a thin green haze over the whole of the south slope, as it does in a good year, and the children walked out to look at it, in a long straggling line, with their rulers.
 
 At the post office, on the afternoon of the twentieth, Hettie wrote the figures in the green book. She had done it, she told me, with the pencil in her fist and the canary shrilling at the sill, in a column of a hundred and twelve numbers. It was the first time that she had written anything in that column other than a zero. The lowest was 3.1. The highest was 11.2, on the Fenn terrace. The mean, which Joss computed that evening on the back of a sheet of the college's green paper, in his fine slanting hand, was 6.4.
 
@@ -176,15 +176,17 @@ I opened it to the last page.
 
 I took out a pen. I did not hesitate. I had written the sentence in my head, I think, on the first of April, at a lectern, with a number in my hand, and had not known that I was writing.
 
-*20 October. It rained. 6.4 mm across the basin, 9.2 at Odd's, 11.2 at the Fenns'. The Almanac said nine percent. Nine percent is not zero. It is not a promise, either. It is a number that a person can stand on, and that is what it is for.*
+*20 October. It rained. 6.4 mm across the basin, 9.2 at Odd's, 11.2 at the Fenns'. The Almanac said nine percent, for twelve millimeters. This was not that rain. It said so itself, at four in the morning, before anyone could call it right. Nine percent is not zero. It is not a promise, either. It is a number that a person can stand on, and that is what it is for.*
 
 *I used to round it. I do not any more. This is mine.*
 
 I put down the pen. I read it over, around the gray place, with the page at the edge of my sight. It did not look like much.
 
-At the other end of the shelf, the terminal woke. I had not touched it. It does not wake unless it is spoken to, and I looked at it for a moment with a certain alarm, and then I saw the cursor, and the single line on the screen.
+At the other end of the shelf, the terminal woke. I had not touched it. It does not speak unless it is spoken to; in twenty-two years it never had; and I looked at it for a moment with a certain alarm, and then I saw the cursor, and the single line on the screen.
 
 *Good evening, Tamsin,* it said. *It is 22:11. The ten o'clock soil probe at the south slope came in a few minutes ago. Thirty centimeters: thirteen percent. It has been rising since five this morning. I wanted you to know. I did not want to print it before you had come.*
+
+Nothing in it forbade that, Joss told me afterward, when I asked. Ruben had left it the power to speak first. It had only never, in twenty-two years, judged that it had a reason.
 
 I sat down. I pulled the chair up to the shelf. In the green light, with the rain-cards at my back, I put my two hands on the keys, and I wrote, as I have written a hundred times, with the old stiff pleasure of a ritual that has been given back:
 
@@ -206,4 +208,4 @@ I knew the answer. I think he did too.
 
 *Both,* I thought. *And both of us have said so.*
 
-Outside, the light went out of the sky in a long slow bar of rose and pewter over the ridge. The dust was down. In the road, a hundred and twelve small jars stood on their posts with their taped rulers, in the dusk, each with a quarter-inch of water at the bottom, for the first time all year, catching what the sky had left them. It was not much. It was a number. I could have counted it with my eyes shut.
+Outside, the light went out of the sky in a long slow bar of rose and pewter over the ridge. The dust was down. In the road, a hundred and twelve small jars stood on their posts with their taped rulers, in the dusk, each with a quarter-inch of water at the bottom, for the first time since they were set, catching what the sky had left them. It was not much. It was a number. I could have counted it with my eyes shut.

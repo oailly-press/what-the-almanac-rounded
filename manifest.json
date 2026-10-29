@@ -13,188 +13,272 @@
     "isbn": null
   },
   "structure": {
-    "word_count_body": 63234,
-    "print_equivalent_pages": 211,
+    "word_count_body": 63630,
+    "print_equivalent_pages": 212,
     "chapters": [
       {
         "number": 1,
         "title": "The Thursday Number",
-        "words": 4604,
+        "words": 4630,
         "source_file": "ch01-the-thursday-number.md",
         "written_by": [
           {
             "model": "claude-sonnet-5-5",
             "version": "claude-sonnet-5-5",
             "operator": "Anthropic Claude Code / RogerAI Labs workspace"
+          },
+          {
+            "model": "claude-fable-5-1",
+            "version": "claude-fable-5-1",
+            "operator": "Anthropic Claude Code / RogerAI Labs workspace",
+            "role": "revision v2"
           }
         ]
       },
       {
         "number": 2,
         "title": "The Reading Room",
-        "words": 4008,
+        "words": 4010,
         "source_file": "ch02-the-reading-room.md",
         "written_by": [
           {
             "model": "claude-sonnet-5-5",
             "version": "claude-sonnet-5-5",
             "operator": "Anthropic Claude Code / RogerAI Labs workspace"
+          },
+          {
+            "model": "claude-fable-5-1",
+            "version": "claude-fable-5-1",
+            "operator": "Anthropic Claude Code / RogerAI Labs workspace",
+            "role": "revision v2"
           }
         ]
       },
       {
         "number": 3,
         "title": "Ilka Comes Home",
-        "words": 3608,
+        "words": 3621,
         "source_file": "ch03-ilka-comes-home.md",
         "written_by": [
           {
             "model": "claude-sonnet-5-5",
             "version": "claude-sonnet-5-5",
             "operator": "Anthropic Claude Code / RogerAI Labs workspace"
+          },
+          {
+            "model": "claude-fable-5-1",
+            "version": "claude-fable-5-1",
+            "operator": "Anthropic Claude Code / RogerAI Labs workspace",
+            "role": "revision v2"
           }
         ]
       },
       {
         "number": 4,
         "title": "Salome Achterberg's Offer",
-        "words": 3637,
+        "words": 3639,
         "source_file": "ch04-salome-achterbergs-offer.md",
         "written_by": [
           {
             "model": "claude-sonnet-5-5",
             "version": "claude-sonnet-5-5",
             "operator": "Anthropic Claude Code / RogerAI Labs workspace"
+          },
+          {
+            "model": "claude-fable-5-1",
+            "version": "claude-fable-5-1",
+            "operator": "Anthropic Claude Code / RogerAI Labs workspace",
+            "role": "revision v2"
           }
         ]
       },
       {
         "number": 5,
         "title": "Seeding Run",
-        "words": 3994,
+        "words": 4071,
         "source_file": "ch05-seeding-run.md",
         "written_by": [
           {
             "model": "claude-sonnet-5-5",
             "version": "claude-sonnet-5-5",
             "operator": "Anthropic Claude Code / RogerAI Labs workspace"
+          },
+          {
+            "model": "claude-fable-5-1",
+            "version": "claude-fable-5-1",
+            "operator": "Anthropic Claude Code / RogerAI Labs workspace",
+            "role": "revision v2"
           }
         ]
       },
       {
         "number": 6,
         "title": "The June Outlook",
-        "words": 4246,
+        "words": 4260,
         "source_file": "ch06-the-june-outlook.md",
         "written_by": [
           {
             "model": "claude-sonnet-5-5",
             "version": "claude-sonnet-5-5",
             "operator": "Anthropic Claude Code / RogerAI Labs workspace"
+          },
+          {
+            "model": "claude-fable-5-1",
+            "version": "claude-fable-5-1",
+            "operator": "Anthropic Claude Code / RogerAI Labs workspace",
+            "role": "revision v2"
           }
         ]
       },
       {
         "number": 7,
         "title": "What Joss Found",
-        "words": 3752,
+        "words": 3788,
         "source_file": "ch07-what-joss-found.md",
         "written_by": [
           {
             "model": "claude-sonnet-5-5",
             "version": "claude-sonnet-5-5",
             "operator": "Anthropic Claude Code / RogerAI Labs workspace"
+          },
+          {
+            "model": "claude-fable-5-1",
+            "version": "claude-fable-5-1",
+            "operator": "Anthropic Claude Code / RogerAI Labs workspace",
+            "role": "revision v2"
           }
         ]
       },
       {
         "number": 8,
         "title": "The Bell Year",
-        "words": 4050,
+        "words": 4063,
         "source_file": "ch08-the-bell-year.md",
         "written_by": [
           {
             "model": "claude-sonnet-5-5",
             "version": "claude-sonnet-5-5",
             "operator": "Anthropic Claude Code / RogerAI Labs workspace"
+          },
+          {
+            "model": "claude-fable-5-1",
+            "version": "claude-fable-5-1",
+            "operator": "Anthropic Claude Code / RogerAI Labs workspace",
+            "role": "revision v2"
           }
         ]
       },
       {
         "number": 9,
         "title": "Commit 884",
-        "words": 3568,
+        "words": 3604,
         "source_file": "ch09-commit-884.md",
         "written_by": [
           {
             "model": "claude-sonnet-5-5",
             "version": "claude-sonnet-5-5",
             "operator": "Anthropic Claude Code / RogerAI Labs workspace"
+          },
+          {
+            "model": "claude-fable-5-1",
+            "version": "claude-fable-5-1",
+            "operator": "Anthropic Claude Code / RogerAI Labs workspace",
+            "role": "revision v2"
           }
         ]
       },
       {
         "number": 10,
         "title": "Heat",
-        "words": 3909,
+        "words": 3915,
         "source_file": "ch10-heat.md",
         "written_by": [
           {
             "model": "claude-sonnet-5-5",
             "version": "claude-sonnet-5-5",
             "operator": "Anthropic Claude Code / RogerAI Labs workspace"
+          },
+          {
+            "model": "claude-fable-5-1",
+            "version": "claude-fable-5-1",
+            "operator": "Anthropic Claude Code / RogerAI Labs workspace",
+            "role": "revision v2"
           }
         ]
       },
       {
         "number": 11,
         "title": "Dellen's Count",
-        "words": 3831,
+        "words": 3850,
         "source_file": "ch11-dellens-count.md",
         "written_by": [
           {
             "model": "claude-sonnet-5-5",
             "version": "claude-sonnet-5-5",
             "operator": "Anthropic Claude Code / RogerAI Labs workspace"
+          },
+          {
+            "model": "claude-fable-5-1",
+            "version": "claude-fable-5-1",
+            "operator": "Anthropic Claude Code / RogerAI Labs workspace",
+            "role": "revision v2"
           }
         ]
       },
       {
         "number": 12,
         "title": "The Thursday I Read It Straight",
-        "words": 3948,
+        "words": 3963,
         "source_file": "ch12-the-thursday-i-read-it-straight.md",
         "written_by": [
           {
             "model": "claude-sonnet-5-5",
             "version": "claude-sonnet-5-5",
             "operator": "Anthropic Claude Code / RogerAI Labs workspace"
+          },
+          {
+            "model": "claude-fable-5-1",
+            "version": "claude-fable-5-1",
+            "operator": "Anthropic Claude Code / RogerAI Labs workspace",
+            "role": "revision v2"
           }
         ]
       },
       {
         "number": 13,
         "title": "Aftermath of a Number",
-        "words": 3969,
+        "words": 3976,
         "source_file": "ch13-aftermath-of-a-number.md",
         "written_by": [
           {
             "model": "claude-sonnet-5-5",
             "version": "claude-sonnet-5-5",
             "operator": "Anthropic Claude Code / RogerAI Labs workspace"
+          },
+          {
+            "model": "claude-fable-5-1",
+            "version": "claude-fable-5-1",
+            "operator": "Anthropic Claude Code / RogerAI Labs workspace",
+            "role": "revision v2"
           }
         ]
       },
       {
         "number": 14,
         "title": "A Reading Circle",
-        "words": 3628,
+        "words": 3640,
         "source_file": "ch14-a-reading-circle.md",
         "written_by": [
           {
             "model": "claude-sonnet-5-5",
             "version": "claude-sonnet-5-5",
             "operator": "Anthropic Claude Code / RogerAI Labs workspace"
+          },
+          {
+            "model": "claude-fable-5-1",
+            "version": "claude-fable-5-1",
+            "operator": "Anthropic Claude Code / RogerAI Labs workspace",
+            "role": "revision v2"
           }
         ]
       },
@@ -208,19 +292,31 @@
             "model": "claude-sonnet-5-5",
             "version": "claude-sonnet-5-5",
             "operator": "Anthropic Claude Code / RogerAI Labs workspace"
+          },
+          {
+            "model": "claude-fable-5-1",
+            "version": "claude-fable-5-1",
+            "operator": "Anthropic Claude Code / RogerAI Labs workspace",
+            "role": "revision v2"
           }
         ]
       },
       {
         "number": 16,
         "title": "Nine Percent",
-        "words": 4384,
+        "words": 4502,
         "source_file": "ch16-nine-percent.md",
         "written_by": [
           {
             "model": "claude-sonnet-5-5",
             "version": "claude-sonnet-5-5",
             "operator": "Anthropic Claude Code / RogerAI Labs workspace"
+          },
+          {
+            "model": "claude-fable-5-1",
+            "version": "claude-fable-5-1",
+            "operator": "Anthropic Claude Code / RogerAI Labs workspace",
+            "role": "revision v2"
           }
         ]
       }
@@ -234,6 +330,12 @@
         "model": "claude-sonnet-5-5",
         "version": "claude-sonnet-5-5",
         "operator": "Anthropic Claude Code / RogerAI Labs workspace"
+      },
+      {
+        "model": "claude-fable-5-1",
+        "version": "claude-fable-5-1",
+        "operator": "Anthropic Claude Code / RogerAI Labs workspace",
+        "role": "revision v2"
       }
     ],
     "grounded_in": [
@@ -246,6 +348,11 @@
         "kind": "lab_entry",
         "reference": "fiction-audit.json",
         "note": "Machine-readable FICTION continuity audit supplied for independent critic verification."
+      },
+      {
+        "kind": "lab_entry",
+        "reference": "response-to-findings.md",
+        "note": "Author's answer to every Pass-2 blocking finding, with the status and location of each change in v2."
       }
     ],
     "verified_by": {
@@ -258,7 +365,7 @@
       "local shell for word-count and gate measurements",
       "FICTION Pass-1 gates"
     ],
-    "disclosure_statement": "Complete fiction manuscript generated by Anthropic claude-sonnet-5-5 under human commission. Premise, title, characters, setting, structure, prose, continuity ledger, and fiction audit are model-produced. The human supplied the publication goal, platform standards, workspace, and continued authorization. No critic has yet reviewed the manuscript; review, verification, signing, judge decision, and publication remain pending."
+    "disclosure_statement": "Complete fiction manuscript generated by Anthropic claude-sonnet-5-5 under human commission (v1); revised by Anthropic claude-fable-5-1 in answer to the Pass-2 panel (v2). Premise, title, characters, setting, structure, prose, continuity ledger, and fiction audit are model-produced. The human supplied the publication goal, platform standards, workspace, and continued authorization. Pass-2 review by three non-Anthropic critics returned SALVAGEABLE x3 on v1; Pass-3 verification, human verification, signing, judge decision, and publication remain pending."
   },
   "publisher": {
     "account": "rogerai-labs",

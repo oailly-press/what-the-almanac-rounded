@@ -70,11 +70,11 @@ He read it.
 
 > *Conditions: clear, wind NW 14 km/h, humidity 31%, soil moisture at 30 cm: 4%.*
 >
-> *Next seven days: chance of a wetting rain, twelve millimeters or more, basin average: seven percent. Interval: four percent to twelve.*
->
 > *Reservoir: twenty-six percent of capacity.*
 >
-> *This is up from five percent on 28 September. The change is due to a southward dip in the upper-level flow over the coast, which I first saw on the evening of 1 October, and to dew points at Hollin ridge of 12 and 12.4 degrees on the mornings of 3 and 4 October. I have increased my estimate on this basis. The increase is small. It is not a promise.*
+> *Next seven days: chance of a wetting rain, twelve millimeters or more, basin average: seven percent. Interval: four percent to twelve.*
+>
+> *The chance is up from five percent on 28 September. The change is due to a southward dip in the upper-level flow over the coast, which I first saw on the evening of 1 October, and to dew points at Hollin ridge of 12 and 12.4 degrees on the mornings of 3 and 4 October. I have increased my estimate on this basis. The increase is small. It is not a promise.*
 
 He read it in a voice I had not heard from him before. It was not the voice that he used at the grange, the half-bored shout of a man asking for the salt. It was low, and unhurried, and clear, and each number was a thing laid down on the table, like a card. He read *seven percent* as if it were a name. He read *four to twelve* as if it were a pair of dates on a stone. And he read the last line, *It is not a promise,* slowly, with a faint lift on the last word, like a sentence said a thousand times and only now told what it means.
 
@@ -98,7 +98,7 @@ He stood for a moment, with his hand on the wood. Then Wren, who had been sittin
 
 ---
 
-They had changed the order. I think it was Hettie's doing. The second sheet, *what would change the number,* was by long custom read after the first, as a kind of coda, and Wren read it from the box that Maud had stood on, in his clean grave schoolboy's voice, with his finger moving under each line. *A southward dip in the upper-level flow over the coast. A dew point at Hollin ridge above twelve degrees for two mornings together.* He paused. "These two have happened. The Almanac says so. They're checked." He looked up. "The third one's the bees. I've been counting them. Grandma's hive three, row two, is the best one for it. On the first it was seventy-one in and sixty-two out in thirty seconds. This morning it was forty and thirty-four. That's lower. It's not low. I don't know how low it has to be." He swallowed. "That's mine."
+They had changed the order. I think it was Hettie's doing. The second sheet, *what would change the number,* was by long custom read after the first, as a kind of coda, and Wren read it from the box that Maud had stood on, in his clean grave schoolboy's voice, with his finger moving under each line. *A southward dip in the upper-level flow over the coast. A dew point at Hollin ridge above twelve degrees for two mornings together.* He paused. "These two have happened. The Almanac says so. They're checked." He looked up. "The third one's the bees. I've been counting them. Grandma's hive three, row two, is the best one for it. In April it was seventy-one in and sixty-two out in thirty seconds. This morning it was forty and thirty-four. That's lower. It's not low. I don't know how low it has to be." He swallowed. "That's mine."
 
 Somebody in the hall made a sound, a sort of cough. I turned my head. It was Dellen, at the back, with his hand over his eyes.
 

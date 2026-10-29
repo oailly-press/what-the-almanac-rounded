@@ -20,7 +20,7 @@ It is a strange discipline. I have trained a good many readers now, and I have s
 
 We began the training on the Saturday, the sixteenth, in the grange, at two in the afternoon, with the shutters closed against the heat.
 
-Hettie had made a list. There were ten names on it, drawn from a hat, which she had held out at arm's length to the whole Cooperative on the Thursday, so that anyone could see it was not rigged. They stood in a ragged row on the stage in front of the lectern, with the look of a group of people who had been told they were going to be photographed. There was Greta, who had insisted that the chair should not be exempt. There was Hettie herself, on the principle, she said, that a person who has sat in the third seat for forty years has earned the right to find out how it feels from the other side. There was Cormac Teague, with Gwen on his shoulder. There was Brigid. There was a heavy slow man named Harlan who had not spoken at a meeting in a decade, and the gaunt young woman who had asked about the grandchildren, whose name, I learned, was Sunniva. There was the girl of ten, whose name was Maud, who had been drawn by the hat and whose mother had said that she might. There was Dellen. There was Joss, who had been drawn despite not being a member, on the ground, Greta ruled, that the hat did not care.
+Hettie had made a list. There were ten names on it, drawn from a hat, which she had held out at arm's length to the whole Cooperative on the Thursday, so that anyone could see it was not rigged. They stood in a ragged row on the stage in front of the lectern, with the look of a group of people who had been told they were going to be photographed. There was Greta, who had insisted that the chair should not be exempt. There was Hettie herself, on the principle, she said, that a person who has sat in the third seat for forty years has earned the right to find out how it feels from the other side. There was Cormac Teague, with the baby, Gwen, on his shoulder. There was Brigid. There was a heavy slow man named Harlan who had not spoken at a meeting in a decade, and the gaunt young woman who had asked about the grandchildren, whose name, I learned, was Sunniva. There was the girl of ten, whose name was Maud, who had been drawn by the hat and whose mother had said that she might. There was Dellen. There was Joss, who had been drawn despite not being a member, on the ground, Greta ruled, that the hat did not care.
 
 And at the end of the row, upright and ferocious, in his shirtsleeves, with his arms folded, stood Pieter Vance.
 
@@ -84,11 +84,11 @@ I looked at him. He had never asked for anything in his life. "Odd, you're not w
 
 ---
 
-It went on for three weeks. I would not have believed that a rota of ten ordinary people reading a sheet of paper aloud could be a form of entertainment, but the news got round, and by the third Saturday there were forty or fifty in the hall, sitting at the back in the half-light with their sandwiches, and when it was Dellen's turn they applauded.
+It went on until the vote, the better part of three weeks. I would not have believed that a rota of ten ordinary people reading a sheet of paper aloud could be a form of entertainment, but the news got round, and by the third Saturday there were forty or fifty in the hall, sitting at the back in the half-light with their sandwiches, and when it was Dellen's turn they applauded.
 
-He had been dreading it. I knew, because he had asked me, in the aisle, twice, in a low voice, whether it was permitted to read the sheet in the third person. It was not. He read it in a clean careful feed-store voice, giving each figure its due, with a slight rising inflection at the end of the interval, as if he were reading out a price. When he came to *This is mine,* he stopped. He stood there for a very long moment, a big balding man in a leather apron at a lectern that had been made from a sideboard, with a hundred and sixty people's worth of silence in the room.
+He had been dreading it. I knew, because he had asked me, in the aisle, twice, in a low voice, whether it was permitted to read the sheet in the third person. It was not. He read it in a clean careful feed-store voice, giving each figure its due, with a slight rising inflection at the end of the interval, as if he were reading out a price. When he came to *This is mine,* he stopped. He stood there for a very long moment, a big balding man in a leather apron at a lectern that had been made from a sideboard, with the whole hall's worth of silence in the room.
 
-"I've got a ledger," said Dellen. "I gave it to Hettie. It was a — I'd been counting who'd vote to sell. I stopped." He looked at the paper. "This is mine. I don't know what I'm going to vote. I've never not known. I've always known what the barley would do. But I keep thinking about my father, who sat in that feed store in the Bell Year and watched the bell go, thirty-one times, and said to me, when I was twelve, *it's the number that does it.* And I've spent my whole life thinking he was right. And I'm not sure he was. I think it was the *bank.* I think the number only *looked* like it." He wiped his face. "That's mine. I don't know if it's useful."
+"I've got a ledger," said Dellen. "I gave it to Hettie. It was a — I'd been counting who'd vote to sell. I stopped." He looked at the paper. "This is mine. I don't know what I'm going to vote. I've never not known. I've always known what the barley would do. But I keep thinking about my father, who sat in that feed store in the Bell Year and watched the bell go, thirty-one times, and said to me, across the counter, *it's the number that does it.* And I've spent my whole life thinking he was right. And I'm not sure he was. I think it was the *bank.* I think the number only *looked* like it." He wiped his face. "That's mine. I don't know if it's useful."
 
 "It's useful," said Odd, from the back.
 
@@ -120,7 +120,7 @@ I put down the trug. I sat on the low stone wall under the tree. She did not sit
 
 "What did they do?"
 
-"They told me to think about it," said Salome. "And I did. I thought about it for three weeks. I went home to the flat. I took my father's gauge out of the drawer." She stopped. "I read it. All of it. The first time. I'd not had the nerve."
+"They told me to think about it," said Salome. "And I did. I thought about it for a month. I went home to the flat. I took my father's gauge out of the drawer." She stopped. "I read it. All of it. The first time. I'd not had the nerve."
 
 "What did it say?"
 
@@ -148,7 +148,7 @@ And there was a second part. A *fallowing program.* Any household that chose, vo
 
 I sat under the pear tree and looked at her, a tall gray woman in old boots, with her father's gauge somewhere behind her eyes. I thought of the day that I had first seen her get out of the car against the long orange light. I had taken her for an enemy. I realized that I had been wrong in a way that was almost exactly like the way that I had been wrong about myself.
 
-"Read it to the hall," I said. "Not me. Them. On the first of October."
+"Read it to the hall," I said. "Not me. Them. On the fifth of October. At the vote."
 
 "That's what I came to ask."
 
@@ -184,7 +184,7 @@ I did not answer. I stood with the cord wrapped around my finger and listened to
 
 "A woman with a six-month-old baby," I said, "in a creamery."
 
-"Right." She was quiet for a time. "I'll be there on the first. I'll be on the side I told you."
+"Right." She was quiet for a time. "I'll be back on the first. I'll be there on the fifth, on the side I told you."
 
 "I know."
 

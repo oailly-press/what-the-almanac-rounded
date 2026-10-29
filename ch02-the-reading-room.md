@@ -26,7 +26,7 @@ He was twenty-four, I learned later, though he looked both older and younger: a 
 
 "I know," he said. "I'm sorry."
 
-I picked up the suitcase. It is not a thing I do. I am a person who has stood for forty years in front of other people's difficulties without lifting a finger, because that is how a Reader keeps her place, but there was a young man in a thin jacket who had been looking at the sky, and I had been rude to him in the first minute for a reason that had nothing to do with him. It was heavier than it looked. Inside it, I would discover, was a second suitcase, folded flat, in case he acquired things; a kettle; four notebooks; a set of small screwdrivers; and a framed photograph of his mother, who had put it there herself.
+I picked up the suitcase. It is not a thing I do. I am a person who has stood for most of her life in front of other people's difficulties without lifting a finger, because that is how a Reader keeps her place, but there was a young man in a thin jacket who had been looking at the sky, and I had been rude to him in the first minute for a reason that had nothing to do with him. It was heavier than it looked. Inside it, I would discover, was a second suitcase, folded flat, in case he acquired things; a kettle; four notebooks; a set of small screwdrivers; and a framed photograph of his mother, who had put it there herself.
 
 "Come and meet it," I said.
 

@@ -69,7 +69,7 @@ The first of the cumulus appeared at twenty past two. It was a modest thing, a s
 
 "There she is," said Hettie, from the truck.
 
-I drove back down alone. I will not say it was a decision. I had told Dellen I would be on the line, and I was on the line, and I took the dirt road down from the saddle at a speed the truck had not been asked to produce in some years, and I came into the Reading Room at ten to three with my hat in my hand and dust in my teeth.
+I drove back down with Joss, who had asked, in a small voice, whether he might listen on the second headset, and whom I had not had the time or the heart to refuse. He did not speak once on the road. I will not say it was a decision. I had told Dellen I would be on the line, and I was on the line, and I took the dirt road down from the saddle at a speed the truck had not been asked to produce in some years, and I came into the Reading Room at ten to three with my hat in my hand and dust in my teeth.
 
 ---
 
@@ -99,7 +99,7 @@ I looked at that for what must have been two seconds. It is not a long time. It 
 
 I did not correct it.
 
-I will say why, because I have been over it many times, and the true answer is not flattering. It was not that I thought two minutes would not matter. It was that to correct it I would have had to say, in front of my neighbor, aloud, on an open line, that I had given him a different number from the machine's. I would have had to say it in the presence of Joss, who was listening on a second headset in the Reading Room by that time, having slipped in behind me without a sound. I could feel his attention on the back of my neck like a lamp. And I thought: it is two minutes. I thought: forty is a window; thirty-eight is a window; he will watch the telemetry. I told myself he was a competent pilot.
+I will say why, because I have been over it many times, and the true answer is not flattering. It was not that I thought two minutes would not matter. It was that to correct it I would have had to say, in front of my neighbor, aloud, on an open line, that I had given him a different number from the machine's. I would have had to say it in the presence of Joss, who sat at my shoulder with the second headset and had not said a word since the saddle. I could feel his attention on the back of my neck like a lamp. And I thought: it is two minutes. I thought: forty is a window; thirty-eight is a window; he will watch the telemetry. I told myself he was a competent pilot.
 
 He is. He is the most careful pilot I have known. And he did what a careful pilot does, which is to fly the number he was given.
 
@@ -123,7 +123,7 @@ I read it. I read it without a single word changed, and I heard my voice go up t
 
 "Quiet, Tamsin."
 
-I was quiet. I sat with my fist against my mouth. Beside me, Joss had gone entirely white, and I saw him reach for the paper on the shelf, the six o'clock sheet, and then not take it. I do not know what he was thinking. I know what I was. I was counting. I had counted it in the way a person counts when a clock is already running and there is nothing left to do but let it: *thirty-eight. Forty. Two minutes.* It had been at the bottom of the edge of the sky the whole time, thirty-eight, in the machine's plain voice, and I had put it away.
+I was quiet. I sat with my fist against my mouth. Beside me, Joss had gone entirely white, and I saw him reach for the paper on the shelf, the six o'clock sheet, and then not take it. I do not know what he was thinking. I know what I was. I was counting. I had counted it in the way a person counts when a clock is already running and there is nothing left to do but let it: *thirty-eight. Forty. Two minutes.* And under it the other number, the one I had not read to him at all: *thirty-five,* and *treat the window as shorter.* It had been there the whole time, in the machine's plain voice, in a second paragraph, and I had put it away.
 
 The radio gave a long crackle. Then Dellen, in a voice of such complete and appalling gentleness that I will hear it until I die, said, "She's gone. She's in the gully. She went in on the east side of the saddle. I'm — I saw her go in."
 
@@ -167,7 +167,7 @@ Dellen did not come to supper. I went to find him at ten, at the strip, because 
 
 "About what?"
 
-"About the number." He did not turn his head. "I heard it. You said forty. It said thirty-eight. I've got the log. Joss was on the second headset and he's got it recorded, I imagine, since he's the kind. Thirty-eight. And I flew forty. Kestrel iced at thirty-seven and a half. It'd have been thirty-five on a good day." He stopped. "She might have come out of it. She might not have. She was a bird with a lot of hours on her. I'd have said it was the ice and no one's fault."
+"About the number." He did not turn his head. "I heard it. You said forty. It said thirty-eight. I've got the log. Joss was on the second headset and he's got it recorded, I imagine, since he's the kind. Thirty-eight, and a line under it about the ice that said thirty-five, and said to come out early. You read me the one and not the other. And I flew forty. Kestrel iced at thirty-seven and a half. It'd have been thirty-five on a good day." He stopped. "She might have come out of it. She might not have. She was a bird with a lot of hours on her. I'd have said it was the ice and no one's fault."
 
 "Dellen."
 

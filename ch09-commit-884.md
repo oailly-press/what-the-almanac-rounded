@@ -12,9 +12,9 @@ He sat in Joss's chair. Joss stood. I knelt in front of the shelf with the key, 
 
 The lock gave with a small dry click.
 
-Inside was very little. There was a paperback book on the care of bees that I had given him one birthday and he had never opened. There was a spool of copper wire. There was a pair of reading glasses with one arm mended in tape. And at the back, laid flat on the wood, where it had lain since a morning in March, there was a single sheet of the yellow paper, folded in three, with a name on the outside in pencil: *Tam.*
+Inside was very little. There was a paperback book on the care of bees that I had given him one birthday and he had never opened. There was a spool of copper wire. There was a pair of reading glasses with one arm mended in tape. And at the back, laid flat on the wood, where it had lain since the morning after his funeral, when I had first read it and put it back, there was a single sheet of the yellow paper, folded in three, with a name on the outside in pencil: *Tam.*
 
-I took it out. I did not unfold it at once. It had a smell. I had forgotten that. It smelled of him, not of his skin, but of the particular room-smell of his hands, pencil and warm metal and the faint sweet cheroot that he cut in half to make last. I sat back on my heels on the creamery floor with the paper in my lap, and for a moment I could not do anything at all.
+I took it out. I did not unfold it at once. I knew every word of it; it was not the words I was afraid of. It had a smell. I had forgotten that. It smelled of him, not of his skin, but of the particular room-smell of his hands, pencil and warm metal and the faint sweet cheroot that he cut in half to make last. I sat back on my heels on the creamery floor with the paper in my lap, and for a moment I could not do anything at all.
 
 "I'll read it," I said at last. "I'd like to read it aloud. I've only ever read it to myself. I think I should know what it sounds like."
 
@@ -76,7 +76,7 @@ He had a thing to say, and he took some time to say it. I watched him assemble i
 
 "Say it."
 
-"I've read a lot of commit messages." He gave a faint unhappy laugh. "It's, um. It's the thing I do. I read what people write when they think no one will read it. Most of it's rubbish. *Fix bug. Update.* Some of it's lies. There's a kind of person who writes a long, beautiful message to justify a change they know was wrong. I've seen it. They write a paragraph and the paragraph is the apology." He put the glasses back on. "And then there's Ruben. He wrote a reason every time. Eleven hundred and sixty-one times. And the one time that he made the most important change in the whole history, he wrote *ok.*"
+"I've read a lot of commit messages." He gave a faint unhappy laugh. "It's, um. It's the thing I do. I read what people write when they think no one will read it. Most of it's rubbish. *Fix bug. Update.* Some of it's lies. There's a kind of person who writes a long, beautiful message to justify a change they know was wrong. I've seen it. They write a paragraph and the paragraph is the apology." He put the glasses back on. "And then there's Ruben. He wrote a reason every time. Eight hundred and eighty-three times. And the one time that he made the most important change in the whole history, he wrote *ok.*"
 
 "Yes."
 
@@ -108,7 +108,7 @@ There is a thing that happens when a long secret is told, which I had not expect
 
 It was Hettie who broke it. She came in without knocking, as she does, with the particular stiff upright walk that she assumes when she has been told something by a younger person that she had already known. She had her post-office apron on and her reading glasses pushed up into her white hair, and she carried in her hand the green cloth minute book from the post-office safe.
 
-"The boy told me you'd be here," she said. "He came over at noon and asked if I'd mind if he read Ruben's note to the Teague girl who comes in for stamps. I told him he wasn't to. And then I thought: well. Someone ought to say it in this room."
+"The boy told me you'd be here," she said. "He came by the counter on his way home and said there was a note of Ruben's in a drawer, and asked if he might tell the Teague girl who comes in for stamps. I told him he wasn't to. And then I thought: well. Someone ought to say it in this room."
 
 "Hettie —" I said.
 

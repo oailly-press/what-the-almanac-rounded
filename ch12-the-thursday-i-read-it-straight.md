@@ -104,11 +104,11 @@ I will not set it all down. It is in the shoebox, with the others, and Hettie ha
 
 I stopped. I did not look up. I had held the sheet at the side, to the edge of my sight, and I stood there with my eyes on the paper because I could not have borne to see their faces.
 
-"That is the Almanac's number," I said. "It's nine percent. It was twelve in the spring. It has been falling since. The interval's three to seventeen. That means that if the Almanac were run a hundred times on this season, it would give rain to the basin about nine times, and more than seventeen times in perhaps one run in ten."
+"That is the Almanac's number," I said. "It's nine percent. It was twelve in the spring. It has been falling since. The interval's three to seventeen. That means that if this season were run a hundred times, the basin would get to a normal year's water in about nine of them. The interval means the true chance might be as low as three or as high as seventeen, and the Almanac does not know which."
 
 My voice sounded strange to me. It sounded thin and level, as a voice does when one is reading out something one has written for someone else.
 
-"I have not said it like that before," I said. "I should tell you that. For fourteen years I have said something else. I've said *better than one in five.* I've said *about a third.* I've said it was inside the interval. It was. I never went outside the interval. But I went to the top of it every time, and I did it because I was afraid, and because I thought I was being kind, and because the night after my husband's funeral I did not know how to stand in this hall and say the true thing." I drew a breath. "It was mine. It was never the Almanac's. The Almanac stopped rounding fourteen years ago. My husband took it out the winter he died, and he told one man, and I found it afterward in a note. I let you think it was still the machine. I told you so. I said *it's the Almanac's,* when you asked, and it wasn't."
+"I have not said it like that before," I said. "I should tell you that. For fourteen years I have said something else. I've said *better than one in five.* I've said *about a third.* I've said it was inside the interval. It was. I never went outside the interval. But I went up toward the top of it every time, and I did it because I was afraid, and because I thought I was being kind, and because the night after my husband's funeral I did not know how to stand in this hall and say the true thing." I drew a breath. "It was mine. It was never the Almanac's. The Almanac stopped rounding fourteen years ago. My husband took it out the winter he died, and he told one man, and I found it afterward in a note. I let you think it was still the machine. I told you so. I said *it's the Almanac's,* when you asked, and it wasn't."
 
 I looked up.
 
@@ -164,7 +164,7 @@ At the back, Dellen Roque took the pencil from behind his ear, and opened the le
 
 The chair rose from the side table, and stood. She was in her cardigan, with her pen in her hand. Her face was very pale and very composed.
 
-"I move," she said, "that the board meet in emergency session at nine tomorrow, in this hall, to consider the Almanac's recommendation of Tier 4. I move that it be open to every household." She paused. "I move that Ms. Penhallow, the auditor, be asked to attend and to answer questions on the record."
+"I move," she said, "that the board meet in emergency session at nine tomorrow, in this hall, to consider the Almanac's recommendation of Tier 4. I move that it be open to every household." She paused. "I move that Mr. Penhallow, the auditor, be asked to attend and to answer questions on the record."
 
 "Seconded," said Hettie.
 

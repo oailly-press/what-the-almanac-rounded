@@ -2,7 +2,7 @@
 
 It was Cormac Teague who rang the bell.
 
-I found him at six the next morning, on the grange steps, in the cold gray light before the sun cleared the ridge, with his back against the porch post and his boots stretched out in front of him and the baby asleep in the sling on his chest. He had not gone home. A brown paper bag stood beside him on the stone, with the top rolled down, and a thermos, and he sat looking at the rope. It hung in the still air from its bracket, a fat gray hemp thing as thick as a wrist, with a worn knot at the end, and I saw that the knot was damp where a hand had held it.
+I found him at six the next morning, on the grange steps, in the cold gray light before the sun cleared the ridge, with his back against the porch post and his boots stretched out in front of him and the baby asleep in the sling on his chest. He had gone home, and come back. A brown paper bag stood beside him on the stone, with the top rolled down, and a thermos, and he sat looking at the rope. It hung in the still air from its bracket, a fat gray hemp thing as thick as a wrist, with a worn knot at the end, and I saw that the knot was damp where a hand had held it.
 
 "Mrs. Aldecott," he said, without turning.
 
@@ -150,7 +150,7 @@ She is a thin, quick, dark young woman, a good deal younger than her husband, wi
 
 I stood in the door. Behind me the yard was white with sun, and the dust lifted a little and fell.
 
-"Not a number," said Brigid. "I don't mean a number. I mean *something.* Anything. The boy's — Gwen's six months old, Mrs. Aldecott. I've got forty acres and a mortgage and a husband who sits up till two on the grange steps ringing bells. I heard you read it. *Nine percent.* I thought, I'll go home and I'll be sick. And I was." Her mouth twisted. "And I thought, *it's a machine. It's got to have something it can say.* A thing that would make me able to get up in the morning. It doesn't have to be a lie. It can be a thing that's *true.* There must be something that's true and also not that."
+"Not a number," said Brigid. "I don't mean a number. I mean *something.* Anything. The baby's — Gwen's six months old, Mrs. Aldecott. I've got forty acres and a mortgage and a husband who sits up till two on the grange steps ringing bells. I heard you read it. *Nine percent.* I thought, I'll go home and I'll be sick. And I was." Her mouth twisted. "And I thought, *it's a machine. It's got to have something it can say.* A thing that would make me able to get up in the morning. It doesn't have to be a lie. It can be a thing that's *true.* There must be something that's true and also not that."
 
 She looked at me then. Her eyes were black and very bright. I had never seen anything so naked.
 
@@ -170,7 +170,7 @@ The cursor waited. It waited for some time.
 
 *The chance of a normal year is nine percent because the large-scale circulation that brings the autumn rains to this basin is, at present, weak and in the wrong place. If it were to shift, the chance would rise. I can tell you what the shift would look like. I can tell you the three signs I would see first.*
 
-*The first is a southward dip in the upper-level flow over the coast, which I would see on the radio feed from the capital. The second is a rise in the dew point at the Hollin ridge station, above twelve degrees, for two mornings together. The third is the sound the Reader has described to me from the hives. I do not understand it. But I have noticed that in eleven of the last sixty-one years, the Reader's husband wrote in the ledger, on the evening before a rain, that the bees were low. I cannot confirm it. I have no measurement. I would give it very little weight. But I give it some.*
+*The first is a southward dip in the upper-level flow over the coast, which I would see on the radio feed from the capital. The second is a rise in the dew point at the Hollin ridge station, above twelve degrees, for two mornings together. The third is the sound the Reader has described to me from the hives. I do not understand it. But I have noticed that in the eight years the Reader's husband kept the ledger, he wrote on eleven evenings that the bees were low, and on nine of them it rained the next day. I cannot confirm it. I have no measurement. I would give it very little weight. But I give it some.*
 
 I stopped reading. I could not go on. Brigid, beside me, had put her hand over her mouth.
 

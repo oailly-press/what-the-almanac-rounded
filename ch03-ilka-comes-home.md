@@ -146,7 +146,7 @@ It was cruel, and we both heard it. She turned back to the window. For some time
 
 ---
 
-I want to explain something about the bees, because Wren did, in a notebook, and I think it is the clearest account of what happened in the next hour.
+I want to explain something about the bees, because what happened in the next hour happened among them, and because Wren set it down afterward in his notebook as a page of counts, which is the clearest account of it that exists.
 
 I keep a hundred and ten hives on the south edge of my land, in four rows facing the morning, on a slope of sorrel and thyme that nobody would have chosen who had not been desperate. They are not a living, but they are close. Their honey is sold, mostly, to the woman in the capital who makes the soap that everyone says is made with other things. They do well in a dry year, better than most farm creatures, because a dry year is a good year for flowers that learned to live with it. And they have, in my experience, a respect for the weather that is more precise than the Almanac's.
 

@@ -34,7 +34,7 @@ I had not moved. I realized I was holding the pen at an angle, like a person abo
 
 "I know you know." She breathed. "I'm only saying: there's no mystery in it, Mama. Twelve is twelve."
 
-I looked down at the pad. *Tuesday 23 May.* It was Monday the twenty-ninth. I had been writing the same date for six days, in the same careful hand, the way one scratches a mark on a wall.
+I looked down at the pad. *Tuesday 23 May.* It was Monday the twenty-ninth. I had been writing the same date for a week, in the same careful hand, the way one scratches a mark on a wall.
 
 ---
 
@@ -46,7 +46,7 @@ I had been waiting for it. I will say that I am not proud of how much of my week
 
 "Say it."
 
-"I have the radio log. From the sixteenth. The college's protocol is that I record anything that goes through the creamery line. For the data room. I'm supposed to log all Almanac-related traffic."
+"I have the radio log. From the sixteenth. The college's protocol is that I record anything that goes out over the creamery radio. For the data room. Anything the Almanac says that leaves the room."
 
 "Yes."
 
@@ -116,7 +116,7 @@ I sat. I put the bowl down. There was a window beside the bed and through it the
 
 "What problem?"
 
-"You've got a number, and you've got a room." She breathed. "He had it too. He had it every Thursday for eight years. I watched him have it. He'd come home from the grange and he wouldn't sleep." Her eyes went to the window. "I never asked what he did with the number. I only knew by the way he stopped sleeping that he did something. And then one winter he stopped doing it, whatever it was, and he started to sleep, and I knew that was worse."
+"You've got a number, and you've got a room." She breathed. "He had it too. He had it every Thursday for eight years. I watched him have it, from this side of the fence. He'd come home from the grange and your kitchen light wouldn't go off till morning." Her eyes went to the window. "I never asked what he did with the number. I only knew by the light that he did something. And then one winter he stopped doing it, whatever it was, and the light went off at a decent hour, and I knew that was worse."
 
 I held very still. I did not ask what she meant. I felt it at the edge of the room like a draft, the shape of a door I had been passing for fourteen years without opening, and I did not open it.
 

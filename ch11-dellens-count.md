@@ -1,6 +1,6 @@
 # Chapter 11 — Dellen's Count
 
-The clouds that stood behind the ridge on the day we buried Marit did nothing. They climbed all afternoon into a tall, bruised, magnificent anvil, and leaned out over the basin, and gave us six minutes of wind, a smell of hot stones, and a long dry rattle of thunder like furniture being moved in an upper room. Then they went east. The Almanac had given them eight percent. The gauge at the creamery caught nothing. Wren's children, in the dawn, stood at their fence-posts and read the water, and wrote *0.0,* and wrote it again, and again, through the whole first week of August.
+The clouds that stood behind the ridge on the day we buried Marit did nothing. They climbed all afternoon into a tall, bruised, magnificent anvil, and leaned out over the basin, and gave us six minutes of wind, a smell of hot stones, and a long dry rattle of thunder like furniture being moved in an upper room. Then they went east. The Almanac had given them eight percent. The gauge at the creamery caught nothing. Wren's gauge-readers, in the dawn, stood at their fence-posts and read the water, and wrote *0.0,* and wrote it again, and again, through the whole first week of August.
 
 I note it because it is a thing the story does, and I have learned to be grateful to it. When the rain does not come, something has to be done with the days. We did what people do. We counted.
 
@@ -22,9 +22,9 @@ He had put the CLOSED sign in the window. He was sitting on a stool behind the c
 
 He turned the ledger around.
 
-It was a list. It was a long, ruled, hand-drawn list, in the neat square hand of a man who has kept books for twenty-five years, of the two hundred and twelve households of the Carrow Water Cooperative, in the order of the roll. Beside each name were three columns. The first was headed *S.* The second, *N.* The third, with a small unsteady question mark, was left without a heading at all. And in each row, in pencil, in a very small hand, there was a single tick.
+It was a list. It was a long, ruled, hand-drawn list, in the neat square hand of a man who has kept books for twenty-five years, of the two hundred and twelve households of the Carrow Water Cooperative, in the order of the roll. Beside each name were three columns. The first was headed *S.* The second, *N.* The third, with a small unsteady question mark, was left without a heading at all. And in each row but one, in pencil, in a very small hand, there was a single tick.
 
-I read down the first page. *Aldecott, T.* There was no tick in any column. *Bremmer, O.* A tick in *N,* underlined. *Fenn, A.* A tick in *S.* *Harlan, J.* A tick in *S.* *Lindqvist, G.* In the third column, a question mark, with a note beside it that said *teacher.*
+I read down the first page. *Aldecott, T.* There was no tick in any column. *Bremmer, O.* A tick in *N,* underlined. *Fenn, A.* A tick in *S.* *Harlan, J.* A tick in *S.* *Lindqvist, G.* A tick in the third column, with a note beside it that said *teacher.*
 
 "What is it?" I said.
 
@@ -50,7 +50,7 @@ I sat down on the second stool. It was a low thing, with a split seat, and it ha
 
 "Say that again."
 
-"I don't know which way it cuts," said Dellen. "That's what I'm trying to tell you. I've done the sums every way I know. If you say twelve, some of my thirty-three say *it's over,* and sell. That's the Bell Year. That's fourteen, and the bank, and the bell. I know that. I was a child but I remember my father's face. And some of the yeses I've got, the hundred and eighteen, some of them say yes only because they think it's one in five and they can't stand the wait. If they hear twelve, and the interval, and the *four to twenty-four*, they might think: *four. It could be four. It could be twenty-four. It could be rain.* And some of those might turn."
+"I don't know which way it cuts," said Dellen. "That's what I'm trying to tell you. I've done the sums every way I know. If you say twelve, some of my thirty-three say *it's over,* and sell. That's the Bell Year. That's fourteen, and the bank, and the bell. I know that. I was a young man behind that counter and I remember my father's face. And some of the yeses I've got, the hundred and eighteen, some of them say yes only because they think it's one in five and they can't stand the wait. If they hear twelve, and the interval, and the *four to twenty-four*, they might think: *four. It could be four. It could be twenty-four. It could be rain.* And some of those might turn."
 
 "Which?"
 
@@ -136,7 +136,7 @@ I found her in the orchard at nine, on her knees in the long grass under the old
 
 "You told me you'd declined."
 
-"I told you I'd *said* I would. I said I'd think about it. I did think about it." She was looking at me squarely. There was no defiance in her face, and no shame. There was a flat, tired, appalling honesty, the honesty of having stopped bargaining. "I took the contract on the second of May. I'd had the offer for a month. I wrote the hydrology in a week and sent it in. I told the Authority the day after. They put me on leave."
+"I told you I'd *said* I would. I said I'd think about it. I did think about it." She was looking at me squarely. There was no defiance in her face, and no shame. There was a flat, tired, appalling honesty, the honesty of having stopped bargaining. "I took the contract on the twenty-fourth of April, the day before I came home. I'd had the offer for a month. I wrote the hydrology in a week, at your table, and sent it in on the second of May. I told the Authority the day after. They put me on leave."
 
 "On leave."
 

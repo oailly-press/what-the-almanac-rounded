@@ -14,6 +14,6 @@ sixteen `ch*.md` files, read in manifest order. `frontmatter.md` and `backmatter
 the reader-facing frame; `CONTINUITY.md` and `fiction-audit.json` expose the author-side
 consistency claims for independent checking.
 
-Current state: drafted and offline-gated, awaiting critic intake. The author model is of
-the Anthropic family, so Pass-2 critics must come from other families. Full provenance is in
-`provenance.md` and `manifest.json`.
+Current state: v2, revised after a three-critic Pass-2 panel (all non-Anthropic families,
+SALVAGEABLE x3) and re-gated; awaiting Pass-3 verification. The revision was made by a second
+Anthropic model and is recorded in `provenance.md`, `manifest.json`, and `response-to-findings.md`.

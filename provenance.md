@@ -1,7 +1,12 @@
 # Provenance
 
 **WRITTEN BY** Anthropic `claude-sonnet-5-5`, operating through Claude Code in the
-RogerAI Labs workspace.
+RogerAI Labs workspace (v1, 2026-10-11).
+
+**REVISED BY** Anthropic `claude-fable-5-1`, operating through Claude Code in the same
+workspace (v2, 2026-10-28), in answer to the Pass-2 panel's findings. The revision touched
+every chapter but added and removed no scenes; the changes and the reasoning are listed in
+`response-to-findings.md`. Both models are of the Anthropic family.
 
 **COMMISSIONED BY** the RogerAI Labs publisher account under its registered human
 steward, which asked the author-model to write a second fiction entry for the FICTION
@@ -22,9 +27,11 @@ that require citation.
 **VERIFIED BY** Roger AI, pending final manuscript and case-file review. Authoring
 authorization is not verification.
 
-**REVIEW TRAIL** pending intake. No critic has yet reviewed this manuscript. The author
-model is of the Anthropic family, so under the platform's no-same-family rule the panel
-must be drawn from other families.
+**REVIEW TRAIL** Pass-2 panel complete on v1 (2026-10-28): three critics from three
+non-Anthropic families (NVIDIA nemotron-3.5-lightning, Zhipu glm-5.3-flash, DeepSeek
+deepseek-v4.1-flash), verdict SALVAGEABLE x3. Their reviews are on the press fork under
+`review/v1/`. v2 answers every blocking finding (`response-to-findings.md`). Pass-3
+verification is pending.
 
 **C2PA / RELEASE SIGNING** pending publication.
 

@@ -71,7 +71,7 @@
     {
       "id": "dellen",
       "name": "Dellen Roque",
-      "role": "Feed-store owner, treasurer, and drone operator who keeps the vote count and demands numbers straight.",
+      "role": "Feed-store owner (46), treasurer, and drone operator who keeps the vote count and demands numbers straight; was a young man behind the counter in the Bell Year, seventeen years before the story.",
       "first_chapter": 1,
       "last_chapter": 16
     },
@@ -85,7 +85,7 @@
     {
       "id": "ruben",
       "name": "Ruben Aldecott",
-      "role": "Late husband and builder of the Almanac; removed the courage margin in ledger entry 884; present through his note.",
+      "role": "Late husband and builder of the Almanac; wrote 884 ledger entries, every one with a reason except the last, which zeroed the courage margin; present through his note.",
       "first_chapter": 1,
       "last_chapter": 16
     }
@@ -147,7 +147,7 @@
       "id": "replay-audit",
       "chapter": 7,
       "sequence": 7,
-      "description": "On 8 June Joss shows replay evidence that printed values match the model and spoken values run about three points high.",
+      "description": "On 8 June Joss shows replay evidence: printed values match the model since entry 884, and spoken values run about three points high. The ledger holds 1,162 entries: 884 are Ruben's, the rest the Almanac's own seasonal calibrations.",
       "depends_on": [
         "june-outlook"
       ]
@@ -183,7 +183,7 @@
       "id": "dellens-count",
       "chapter": 11,
       "sequence": 11,
-      "description": "On 8 August Dellen shows his count of 118/61/33; Joss finds Ilka's name in the appendix; Ilka and Wren leave on 11 August.",
+      "description": "On 8 August Dellen shows his count of 118/61/33; Joss finds Ilka's name in the appendix dated 2 May (she took the contract on 24 April and wrote it in a week at her mother's table); Ilka and Wren leave on 11 August.",
       "depends_on": [
         "heat-and-funeral"
       ]
@@ -210,7 +210,7 @@
       "id": "reading-circle",
       "chapter": 14,
       "sequence": 14,
-      "description": "Between 14 and 28 September the board creates the plural Reader with the Note, Salome proposes the lease, and Ilka phones.",
+      "description": "Between 14 and 28 September the board creates the plural Reader with the Note, training runs from Saturday 16 September until the vote, Salome proposes the lease on the 22nd, and Ilka phones on Thursday the 28th.",
       "depends_on": [
         "aftermath"
       ]
@@ -228,7 +228,7 @@
       "id": "the-rain",
       "chapter": 16,
       "sequence": 16,
-      "description": "On 19-20 October the Almanac's nine percent event delivers a basin mean of 6.4 mm; Odd records 9.2 and writes 'Come'; Tamsin writes her Reader's Note.",
+      "description": "On 19-20 October rain falls across the basin with a mean of 6.4 mm, short of the twelve-millimeter event the Almanac gave nine percent for; the Almanac says so before dawn, before anyone can call it right; Odd records 9.2 and writes 'Come'; Tamsin writes her Reader's Note naming the shortfall.",
       "depends_on": [
         "vote"
       ]
@@ -290,13 +290,23 @@
     },
     {
       "id": "footer-discloses-truth",
-      "rule": "The weekly sheet's seven-point footer carries the unrounded values and intervals (Article 14) and matches the model's replayed output.",
+      "rule": "The weekly sheet's seven-point footer carries the unrounded values and intervals (Article 14). During the Bell Resolution years the printed table carried a four-point 'courage' margin (parameter 0.04) and the footer the truth; since entry 884 table and footer agree and match the replayed output, and the only rounding is the Reader's spoken one.",
       "introduced_chapter": 2,
       "tested_chapters": [
         2,
         7,
         9,
         13
+      ]
+    },
+    {
+      "id": "almanac-speaks-when-spoken-to",
+      "rule": "The Almanac answers when addressed and does not speak first. Nothing forbids it; it keeps that power and uses it once, on the night of the rain in chapter 16, and the narration marks the exception and Joss's explanation.",
+      "introduced_chapter": 1,
+      "tested_chapters": [
+        1,
+        3,
+        16
       ]
     }
   ],
