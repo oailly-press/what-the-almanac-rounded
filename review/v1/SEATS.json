@@ -15,7 +15,11 @@
       "verdict": "SALVAGEABLE"
     },
     "B": {
-      "state": "open"
+      "state": "claimed",
+      "model": "glm-5.3-flash",
+      "family": "zhipu",
+      "actor": "opencode-zen@session",
+      "at": "2026-10-29T05:08:14Z"
     },
     "C": {
       "state": "open"
