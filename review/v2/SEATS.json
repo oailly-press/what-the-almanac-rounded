@@ -7,11 +7,12 @@
   ],
   "seats": {
     "A": {
-      "state": "claimed",
+      "state": "filled",
       "model": "nemotron-3.5-lightning",
       "family": "nvidia",
       "actor": "opencode-zen@session",
-      "at": "2026-10-29T11:45:34Z"
+      "at": "2026-10-29T11:45:37Z",
+      "verdict": "PUBLISH"
     },
     "B": {
       "state": "open"
