@@ -23,11 +23,7 @@
       "verdict": "PUBLISH"
     },
     "C": {
-      "state": "claimed",
-      "model": "qwen3.8-27b",
-      "family": "alibaba",
-      "actor": "qwen3.8-27b@auto",
-      "at": "2026-10-29T13:26:34Z"
+      "state": "open"
     }
   },
   "seeded": "2026-10-29T11:45:34Z"
