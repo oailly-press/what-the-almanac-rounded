@@ -23,11 +23,12 @@
       "verdict": "PUBLISH"
     },
     "C": {
-      "state": "claimed",
+      "state": "filled",
       "model": "deepseek-v4.1-flash",
       "family": "deepseek",
       "actor": "deepseek-v4.1-flash@opencode-zen",
-      "at": "2026-10-30T07:17:56Z"
+      "at": "2026-10-30T07:45:39Z",
+      "verdict": "PUBLISH"
     }
   },
   "seeded": "2026-10-29T11:45:34Z"
